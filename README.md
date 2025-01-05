@@ -98,11 +98,11 @@ OPENAI_API_KEY=your_api_key_here
 
 ## Screenshots
 
-- **Embedding Creation:**
-  ![Embedding Creation](screenshots/Embedding-creation.png)
+- **Starting-page:**
+  ![Starting-page](screenshots/starting-page.png)
 
-- **Pinecone Database:**
-  ![Pinecone](screenshots/Pinecone.png)
+- **Response:**
+  ![response](screenshots/response.png)
 
 
 ## Troubleshooting:
