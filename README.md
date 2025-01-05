@@ -102,7 +102,7 @@ OPENAI_API_KEY=your_api_key_here
   ![Starting-page](screenshots/starting-page.png)
 
 - **Response:**
-  ![response](screenshots/response.png)
+  ![Response](screenshots/response.png)
 
 
 ## Troubleshooting:
@@ -113,7 +113,7 @@ OPENAI_API_KEY=your_api_key_here
 ## License(MIT License)
 MIT License
 
-Copyright (c) 2025 [Your Name or Organization]
+Copyright (c) 2025 Arun Kumar (arunkumardsp001@gmail.com)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
