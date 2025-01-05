@@ -101,8 +101,8 @@ OPENAI_API_KEY=your_api_key_here
 - **Starting-page:**
   ![Starting-page](screenshots/starting-page.png)
 
-- **Response:**
-  ![Response](screenshots/response.png)
+- **Starting-page:**
+  ![response](screenshots/response.png)
 
 
 ## Troubleshooting:
