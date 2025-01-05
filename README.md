@@ -1,7 +1,30 @@
 # News Research Tool
 
-This application is a user-friendly news research tool designed for effortless information retrieval. Users can input article URLs and ask questions to receive relevant insights from the stock market and financial domain.
 
+## Abstract
+
+The News Research Tool is a sophisticated system built to provide insights and relevant information from news articles using advanced language models. By utilizing LangChain's framework in combination with OpenAI's language models and FAISS (Facebook AI Similarity Search), this tool allows users to input URLs of news articles and ask specific questions. The system retrieves the most relevant data from the articles and presents answers with supporting source links. The tool aims to assist in efficient data extraction, retrieval, and query answering in the domain of news articles.
+
+## Objective
+
+The primary objective of this project is to build a tool that facilitates efficient retrieval of relevant insights from a given set of news articles. By using cutting-edge NLP models and indexing techniques, the tool:
+
+- Allows users to provide URLs of news articles.
+- Loads and processes the data using LangChain and OpenAI models.
+- Splits the articles into manageable chunks, embeds them, and indexes them using FAISS.
+- Provides fast and accurate answers to user queries based on the content of the articles.
+  
+The tool aims to enhance productivity and streamline news research for users who require quick access to pertinent information from large amounts of unstructured text.
+
+## Introduction
+
+The News Research Tool leverages modern AI techniques to allow users to easily extract relevant data from online news articles. With the explosion of online information, it has become increasingly difficult to quickly locate specific pieces of information from lengthy articles. This tool addresses this challenge by using a combination of:
+
+- **OpenAI’s GPT models** for processing and answering questions.
+- **LangChain’s framework** for managing the entire process, from loading unstructured data (news articles) to embedding and retrieval.
+- **FAISS** for efficient storage and retrieval of embeddings, enabling fast answers to user queries.
+
+The tool is built using Python and Streamlit for the front-end interface, making it easy to input URLs and interact with the system. The system takes a URL as input, processes the news article, creates embeddings, and allows users to query the article content to extract relevant information.
 
 ## Features
 
